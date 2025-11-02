@@ -1,0 +1,1 @@
+(window["proof-factor-plugin"]=window["proof-factor-plugin"]||[]).push([["i18n-en"],{"76aa":function(e,t,i){"use strict";i.r(t);var a={verified:"Verified",verified_by:"Verified by",aggregate_subtitle_hour:"in the last hour",aggregate_subtitle_day:"in the last 24 hours",aggregate_subtitle_week:"in the last 7 days",aggregate_subtitle_month:"in the last 30 days"};t["default"]=a}}]);
